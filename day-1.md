@@ -5,6 +5,8 @@
 - [ ] Learn about [GitHub Pages](https://skills.github.com/#first-day-on-githubt).
 - [ ] Convert my first blog into an actual webpage.
 
+<img alt="Cloudy Morning" src="https://octodex.github.com/images/cloud.jpg" width="100" align="right">
+
 ## Review (Level 2 Size Header)
 Convert an image or video from dark mode to light mode using [ffmpeg](https://www.ffmpeg.org)
 
